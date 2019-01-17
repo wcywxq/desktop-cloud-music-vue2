@@ -6,7 +6,7 @@
 
 #### **技术**
 +   `vue2.x + vuex + vue-router + webpack3.x + axios + electron`
-+   采取`element-ui，在此感谢饿了么团队
++   采取`element-ui`，在此感谢饿了么团队
 +   接口采取`网易云音乐node.js接口`，再次感谢
 +   采取`vue-devtools`工具来检查组件以及`vuex`仓储
 +   采用`vue-lazyloader`插件实现图片预加载
