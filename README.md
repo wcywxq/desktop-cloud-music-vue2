@@ -20,13 +20,8 @@
 #### **打包：**
 +   一键打包：`npm run build`
 +   windows：`npm run build:win32`
-+   linux：`npm run build:win32`
-+   maxOs：`npm run build:win32`
-
-#### **下载：**
-+   windows：
-+   linux：
-+   maxOs：
++   linux：`npm run build:linux`
++   maxOs：`npm run build:darwin`
 
 #### **简单介绍：**
 +   掘金看到很多人采用electron搭建桌面应用程序，萌生了打造一个桌面应用的想法
